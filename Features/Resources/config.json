@@ -1,0 +1,14 @@
+{
+  "driver_path": "Features/Resources/chromedriver.exe",
+  "app_Url": "https://www.calculator.net/",
+  "Username": "slc02_1@versionsolutions.com",
+  "Password": "Welcome123",
+  "AppURL": "https://stage-slc.bsdspeclink.com",
+  "ApiURL": "https://stage-slc-api.bsdspeclink.com/api",
+  "AuthURL": "https://stage-sharedservices.bsdspeclink.com/api",
+  "user1": "slc02_1@versionsolutions.com",
+  "password1": "Welcome123",
+  "user2": "LdTest_1@varsenosolutions.com",
+  "password2": "Welcome123"
+
+}
